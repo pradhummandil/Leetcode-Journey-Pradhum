@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pradhummandil/Leetcode-Journey-Pradhum/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pradhummandil/Leetcode-Journey-Pradhum/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pradhummandil/Leetcode-Journey-Pradhum/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/pradhummandil/Leetcode-Journey-Pradhum/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
